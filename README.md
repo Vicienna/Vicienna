@@ -13,7 +13,7 @@
 
 ### 🌌 Tentang Saya
 
-Saya adalah seorang **Full-stack Developer** dan mahasiswa yang memiliki ketertarikan mendalam pada teknologi masa depan. Fokus utama saya saat ini adalah mengeksplorasi, merancang, dan membangun proyek inovatif yang terintegrasi langsung dengan kecerdasan buatan (**AI**).
+Saya adalah seorang **Full-stack Developer** dan seorang pelajar yang memiliki ketertarikan mendalam pada teknologi masa depan. Fokus utama saya saat ini adalah mengeksplorasi, merancang, dan membangun proyek inovatif yang terintegrasi langsung dengan kecerdasan buatan (**AI**).
 
 * 🧠 **Fokus Utama:** Mengembangkan aplikasi web interaktif, otomasi pintar, serta ekosistem berbasis AI.
 * 🚀 **Visi:** Menjembatani baris kode tradisional dengan kecerdasan buatan untuk menciptakan alat yang adaptif.
@@ -46,7 +46,7 @@ Berikut adalah beberapa proyek backend, API, dan AI yang sedang dan telah saya k
 
 ---
 
-### 📊 Statistik GitHub (Cosmic Theme)
+### 📊 Statistik GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vicienna&show_icons=true&theme=tokyonight&count_private=true&title_color=9B5DE5&icon_color=00F5D4" alt="GitHub Stats" height="180px" />
